@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "My Litle sisters birthday",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my material ui course",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Vacation Trip",
+      "details": "Going to watamu or diani for three nights and  4 days. Do not forget to ask for permission from parents in advance.",
+      "category": "life",
+      "id": 4
+    },
+    {
+      "title": "Sophia's Interview",
+      "details": "Prepare for the interview, Go through questions asked and understand how hooks works for easier implementation",
+      "category": "work",
+      "id": 5
+    }
+  ]
+}
